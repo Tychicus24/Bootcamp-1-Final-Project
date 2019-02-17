@@ -1,48 +1,59 @@
+
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+ }
+.background {
+  width: 100%;
+} 
 .text-block {
   position: absolute;
-  height: 42%;
-  width: 402px;
-  top: 160px;
+  height:378px;
+  width: 398px;
+  top: 200px;
   left: 40px;
   /*background-image: url"image/Bitwise_south.jpg");*/
-  background: transparent;
+  background: rgb(179, 236, 255, .3);
   color: black;
- box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
+  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
   text-align: justify;
   text-justify: inter-word;
-  }
+  font-family: 'spectral' serif bold;
+}
 .text-block2 {
   position: absolute;
-  height: 545px;
-  width: 612px;
-  top: 58%;
+  height: 450px;
+  width: 528px;
+  top: 61%;
   bottom: 50%;
-  right:28%;
-  background-color: #f1e7da;
+  right:36%;
+  /*background-image: url(image/images.jpg);*/
+  background: rgb(179, 236, 255, .7);
   color: black;
   box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 2px;
+  padding-right: 2px;
   text-align: justify;
   text-justify: inter-word;
+  font-family: 'spectral' serif bold;
 }  
 .text-block3 {
   position: absolute;
-  height: 44%;
-  width: 20%;
+  height: 390px;
+  width: 390px;
   top: 200px;
   right: 40px;
   background-repeat: no-repeat;
   /*background-image: url(image/images.jpg);*/
-  background: #e6ecff;
+  background: rgb(179, 236, 255, .3);
   color: black;
- box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
+  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
   text-align: justify;
   text-justify: inter-word;
+  font-family: 'spectral' serif bold;
 }
-
