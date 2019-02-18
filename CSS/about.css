@@ -1,7 +1,7 @@
 
 .text-block {
   position: absolute;
-  height: 85%;
+  height: 90%;
   width: 422px;
   top: 200px;
   left: 40px;
@@ -15,7 +15,7 @@
  }
  .text-block2 {
   position: absolute;
-  height:660px;
+  height: 880px;
   width: 610px;
   top: 200px;
   bottom: 50%;
@@ -30,7 +30,7 @@
 }  
 .text-block3 {
   position: absolute;
-  height: 55%;
+  height: 62%;
   width: 32%;
   top: 200px;
   right: 40px;
