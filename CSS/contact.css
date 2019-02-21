@@ -2,7 +2,7 @@
   position: absolute;
   height: 42%;
   width: 402px;
-  top: 160px;
+  top: 200px;
   left: 40px;
   /*background-image: url"image/Bitwise_south.jpg");*/
   background: transparent;
@@ -10,29 +10,29 @@
  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
-  text-align: justify;
-  text-justify: inter-word;
+  /*text-align: justify;*/
+  /*text-justify: inter-word;*/
   }
 .text-block2 {
   position: absolute;
   height: 545px;
   width: 612px;
-  top: 58%;
+  top: 60%;
   bottom: 50%;
-  right:28%;
+  right:35%;
   background-color: #f1e7da;
   color: black;
   box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding-left: 10px;
   padding-right: 10px;
-  text-align: justify;
-  text-justify: inter-word;
+  /*text-align: justify;*/
+  /*text-justify: inter-word;*/
 }  
 .text-block3 {
   position: absolute;
   height: 44%;
-  width: 20%;
+  width: 25%;
   top: 200px;
   right: 40px;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@
  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
-  text-align: justify;
-  text-justify: inter-word;
+  /*text-align: justify;*/
+  /*text-justify: inter-word;*/
 }
 
