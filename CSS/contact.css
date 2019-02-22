@@ -4,14 +4,11 @@
   width: 402px;
   top: 200px;
   left: 40px;
-  /*background-image: url"image/Bitwise_south.jpg");*/
   background: transparent;
   color: black;
- box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
+  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
-  /*text-align: justify;*/
-  /*text-justify: inter-word;*/
   }
 .text-block2 {
   position: absolute;
@@ -26,9 +23,7 @@
   border-radius: 1px;
   padding-left: 10px;
   padding-right: 10px;
-  /*text-align: justify;*/
-  /*text-justify: inter-word;*/
-}  
+  }  
 .text-block3 {
   position: absolute;
   height: 44%;
@@ -36,13 +31,10 @@
   top: 200px;
   right: 40px;
   background-repeat: no-repeat;
-  /*background-image: url(image/images.jpg);*/
   background: #e6ecff;
   color: black;
- box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
+  box-shadow: 0px 0px 0px 25px rgba(255, 255, 255,0.5);
   border-radius: 1px;
   padding: 2px;
-  /*text-align: justify;*/
-  /*text-justify: inter-word;*/
-}
+  }
 
